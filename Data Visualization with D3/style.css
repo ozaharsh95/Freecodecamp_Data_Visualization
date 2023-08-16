@@ -1,0 +1,28 @@
+body{
+    height: auto;
+    width: 100%;
+    background:linear-gradient(to right,#EFF54D, #00AC61) ;
+}
+
+/* bar class added for 7th lesson  */
+
+.bar {
+    width: 25px;
+    height: 100px;
+    display: inline-block;
+    background-color:#3DBE29;
+    margin: 2px;
+  }
+
+/* hover class for 19th lesson */
+
+.bar:hover{
+   fill: yellow;
+}
+
+/* svg class for 10th lesson */
+
+svg{
+    background-color: rgba(255, 182, 193, 0.596);
+    border:1px solid pink;
+}

@@ -1,0 +1,60 @@
+body {
+	min-width: 1200px;
+}
+
+#title {
+	display: block;
+	margin: auto;
+	text-align: center;
+}
+
+#description {
+	display: block;
+	margin: auto;
+	font-size: 1.3em;
+	text-align: center;
+}
+
+svg {
+	display: block;
+	margin: auto;
+	min-width: 1000;
+}
+
+#tooltip {
+	position: absolute;
+	font-size: 1.2em;
+}
+
+#legend {
+	position: absolute;
+	margin: auto;
+}
+
+#legend svg {
+	display: block;
+	margin: auto;
+}
+
+#container {
+	display: flex;
+	overflow: auto;
+}
+
+#slidercontainer {
+	display: block;
+	margin: auto;
+	margin-top: 0;
+}
+
+#slider {
+	width: 800px;
+	display: block;
+	margin: auto;
+}
+
+#sliderValue {
+	display: block;
+	margin: auto;
+	text-align: center;
+}

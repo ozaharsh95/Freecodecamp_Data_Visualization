@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./script.js" defer></script>
+    <style>
+        body{
+            background: rgba(255, 160, 122, 0.788);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        svg {
+          font: 10px sans-serif;
+          text-align: center;
+          display: block;
+          margin: auto;
+        }
+
+        a {
+          text-decoration: none;
+        }
+
+        #title {
+          font-size: 45px;
+          margin-bottom: 10px;
+        }
+
+        #description {
+          padding-bottom: 1.5rem;
+        }
+
+
+        #footer{
+            border:2px solid gray;
+            height:auto;
+            margin-bottom: 100px;
+            font-size: 1rem;
+            background-color: lightcyan;
+            padding: 20px;
+            border-radius:10px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="btn">
+      <button onclick="f1()">Video Game data</button> | 
+      <button onclick="f2()">Movies data</button> |
+      <button onclick="f3()">KickStarter data</button>
+    </div>
+    <h1 id="title">Please Press any Button</h1>
+    <h2 id="description"></h2>
+    <!-- Create a div where the graph will take place -->
+    <div id="my_dataviz"></div>
+    <div id="footer">
+    </div>
+    <script src="https://d3js.org/d3.v6.js"></script>
+</body>
+</html>

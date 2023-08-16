@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: 100%;
+    background-color:thistle;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+svg{
+    background-color: rgba(255, 182, 193, 0.61);
+    border: 2px solid tomato;
+    border-radius: 10px;
+    overflow: auto;
+    min-height: 500px;
+    min-width: 800px;
+}
+
+.dot{
+    stroke:"black" ;
+    stroke-width:2;
+}
+
+#tooltip{
+    opacity: 0.6;
+    background-color: lightblue;
+    font-size: 12px;
+}
