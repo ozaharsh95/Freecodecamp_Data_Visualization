@@ -28,11 +28,11 @@ Welcome to my Data Visualization adventure! This repository documents my journey
 
 Put your newfound skills to the test with these challenging projects:
 
-- Bar Chart 📊: Sip of Data
-- Scatterplot Graph 📈: Connect the Dots
-- Heat Map 🌡️: Data Inferno
-- Choropleth Map 🗺️: Cartography Magic
-- Treemap Diagram 📊: Descend into Hierarchy
+- Bar Chart 📊: Sip of Data [link]()
+- Scatterplot Graph 📈: Connect the Dots [link]()
+- Heat Map 🌡️: Data Inferno [link]()
+- Choropleth Map 🗺️: Cartography Magic [link]()
+- Treemap Diagram 📊: Descend into Hierarchy [link]()
   
 ## 🌟 What I Learned
 
@@ -79,6 +79,9 @@ Put your newfound skills to the test with these challenging projects:
 |Pre filter JSON to Get the Data You Need  |[Link]()|
 |Get Geolocation Data to Find A User's GPS Coordinates |[Link]()|
 |Post Data with the JavaScript XMLHttpRequest Method |[Link]()|
+
+## Projects :
+
 
 ## 🌐 Let's Connect
 
