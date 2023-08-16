@@ -1,6 +1,5 @@
 # Data Visualization 🚀📊
-
-![Data Visualization Banner](insert_image_url_here)
+<img src = "fcc.jpg">
 
 Welcome to my Data Visualization adventure! This repository documents my journey through the Data Visualization Certification course, where I learned how to transform raw data into compelling visual storytelling. Join me as we delve into the worlds of D3.js, APIs, and the enchantment that is data visualization.
 
