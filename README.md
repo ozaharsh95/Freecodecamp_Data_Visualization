@@ -1,5 +1,8 @@
 # Data Visualization 🚀📊
-<img src = "fcc.jpg">
+
+<p align="center">
+<img src = "fcc.jpg" width="600" >
+</p>
 
 Welcome to my Data Visualization adventure! This repository documents my journey through the Data Visualization Certification course, where I learned how to transform raw data into compelling visual storytelling. Join me as we delve into the worlds of D3.js, APIs, and the enchantment that is data visualization.
 
