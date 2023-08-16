@@ -35,6 +35,8 @@ Put your newfound skills to the test with these challenging projects:
 - Treemap Diagram 📊: Descend into Hierarchy
   
 ## 🌟 What I Learned
+
+
 | Topics | Links |
 |--|------|
 | Add Document Elements with D3 |[Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/blob/main/Data%20Visualization%20with%20D3/script1_and_2.js)|
@@ -67,6 +69,17 @@ Put your newfound skills to the test with these challenging projects:
 | Use Dynamic Scales |[Link]()|
 | Use a Pre-Defined Scale to Place Elements |[Link]()|
 | Add Axes to a Visualization |[Link]()|
+|Handle Click Events with JavaScript using the onclick property |[Link]()|
+|Change Text with click Events |[Link]()|
+|Get JSON with the JavaScript XMLHttpRequest Method |[Link]()|
+|Get JSON with the JavaScript fetch method |[Link]()|
+|Access the JSON Data from an API |[Link]()|
+|Convert JSON Data to HTML |[Link]()|
+|Render Images from Data Sources |[Link]()|
+|Pre filter JSON to Get the Data You Need  |[Link]()|
+|Get Geolocation Data to Find A User's GPS Coordinates |[Link]()|
+|Post Data with the JavaScript XMLHttpRequest Method |[Link]()|
+
 ## 🌐 Let's Connect
 
 Explore the magic of data visualization with me! Feel free to reach out, collaborate, and embark on new adventures in the realm of data.
