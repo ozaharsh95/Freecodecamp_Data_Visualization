@@ -13,18 +13,18 @@ Welcome to my Data Visualization adventure! This repository documents my journey
 
 ## 📚 Course Overview
 
-### Data Visualization with D3
+### 📌 Data Visualization with D3
 + D3, or D3.js, stands for Data Driven Documents. It's a JavaScript library for creating dynamic and interactive data visualizations in the browser.
 + D3 is built to work with common web standards – namely HTML, CSS, and Scalable Vector Graphics (SVG).
 + D3 supports many different kinds of input data formats. Then, using its powerful built-in methods, you can transform those data into different charts, graphs, and maps.
-### JSON APIs and AJAX
+### 📌 JSON APIs and AJAX
 + APIs (Application Programming Interfaces) are like UIs for programs, enabling them to interact with each other by sending and receiving data.
 + APIs facilitate communication between computers, serving as tools for data exchange.
 + AJAX (Asynchronous JavaScript and XML) is commonly used by programmers to work with APIs.
 + AJAX involves making asynchronous requests to a server to transfer data, then displaying the received data on the page.
 + JSON (JavaScript Object Notation) is a typical format for data transferred between the browser and server in this context.
 
-### Data Visualization Projects
+### 🎁 Data Visualization Projects
 
 Put your newfound skills to the test with these challenging projects:
 
@@ -80,7 +80,8 @@ Put your newfound skills to the test with these challenging projects:
 |Get Geolocation Data to Find A User's GPS Coordinates |[Link]()|
 |Post Data with the JavaScript XMLHttpRequest Method |[Link]()|
 
-## Projects :
+## 🎯 Certificate :
+<img src="Harsh_Oza_Freecodecamp_Data_Visulization.png">
 
 
 ## 🌐 Let's Connect
