@@ -28,11 +28,11 @@ Welcome to my Data Visualization adventure! This repository documents my journey
 
 Put your newfound skills to the test with these challenging projects:
 
-- Bar Chart 📊: Sip of Data [link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%201:%20%20Visualize%20Data%20with%20a%20Bar%20Chart)
-- Scatterplot Graph 📈: Connect the Dots [link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%202:%20%20Visuliza%20Data%20with%20a%20Scatterplot%20Graph)
-- Heat Map 🌡️: Data Inferno [link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%203:%20%20Visulize%20Data%20with%20a%20Heat%20Map)
-- Choropleth Map 🗺️: Cartography Magic [link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%204:%20%20Visuliza%20Data%20with%20a%20Choropleth%20Map)
-- Treemap Diagram 📊: Descend into Hierarchy [link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%205:%20%20Visuliza%20Data%20with%20a%20Treemap%20Diagram)
+- Bar Chart 📊: Sip of Data [Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%201:%20%20Visualize%20Data%20with%20a%20Bar%20Chart)
+- Scatterplot Graph 📈: Connect the Dots [Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%202:%20%20Visuliza%20Data%20with%20a%20Scatterplot%20Graph)
+- Heat Map 🌡️: Data Inferno [Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%203:%20%20Visulize%20Data%20with%20a%20Heat%20Map)
+- Choropleth Map 🗺️: Cartography Magic [Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%204:%20%20Visuliza%20Data%20with%20a%20Choropleth%20Map)
+- Treemap Diagram 📊: Descend into Hierarchy [Link](https://github.com/ozaharsh95/Freecodecamp_Data_Visualization/tree/main/Project%205:%20%20Visuliza%20Data%20with%20a%20Treemap%20Diagram)
   
 ## 🌟 What I Learned
 
